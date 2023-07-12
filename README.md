@@ -4,9 +4,12 @@
     A text editor that is able to be used while offline.
 
 # Links to App
-    [git repo:](https://github.com/AvenP/text-changer)
-    
-    [Heroku Link:](https://text-changer-ap-01b7083735a3.herokuapp.com/)
+
+GitHub Repo
+https://github.com/AvenP/text-changer
+
+Heroku Link    
+https://text-changer-ap-01b7083735a3.herokuapp.com/
 
 # Screenshot
 ![image](https://github.com/AvenP/text-changer/assets/123212035/32b6ef2e-3849-4bfc-89c0-dc92950680fd)
