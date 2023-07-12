@@ -6,9 +6,11 @@
 # Links to App
 
 GitHub Repo
+
 https://github.com/AvenP/text-changer
 
-Heroku Link    
+Heroku Link 
+
 https://text-changer-ap-01b7083735a3.herokuapp.com/
 
 # Screenshot
