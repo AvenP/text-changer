@@ -13,6 +13,10 @@
     "heroku-prebuild": "npm install --dev"
     
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvenP/text-changer.git"
+  },
   "keywords": [],
   "author": "Aven Pearson",
   "license": "ISC",
@@ -22,6 +26,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "webpack": "^5.69.1"
   }
 }
